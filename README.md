@@ -20,6 +20,10 @@ Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
 + *xdbfnzsrfhf*: https://www.tutorialspoint.com.cach3.com/programming_example/CZYswf/xdbfnzsrfhf.html
 + *Janathan*: https://www.tutorialspoint.com.cach3.com/programming_example/bc2ras/jonathan.html
 + *hölle*: https://www.tutorialspoint.com.cach3.com/programming_example/dts61M/h-lle.html
++ *dhbkjsdfbn*: https://www.tutorialspoint.com.cach3.com/programming_example/0Rxbq1/dhbkjsdfbn.html
++ *google*: https://www.tutorialspoint.com.cach3.com/programming_example/eBXBEu/google.html
++ *bite*: https://www.tutorialspoint.com.cach3.com/programming_example/boR6e7/bite.html
++ *aaaa*: https://www.tutorialspoint.com.cach3.com/programming_example/efw9fD/aaaa.html
 
 ##### Hello World!.simple.mal
 *Unknown*: https://code.fandom.com/wiki/Malbolge
@@ -28,7 +32,8 @@ Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
 Crates.io: https://docs.rs/crate/malbolge/latest
 
 ##### Hello, world..mal
-*MarstonsGhost*: https://www.reddit.com/r/todayilearned/comments/175y243/til_about_malbolge_a_programming_language/?rdt=44718
++ *MarstonsGhost*: https://www.reddit.com/r/todayilearned/comments/175y243/til_about_malbolge_a_programming_language/?rdt=44718
++ *Agence Mystere*: https://www.tutorialspoint.com.cach3.com/programming_example/DbsWU8/agence-mystere.html
 
 ##### Hello, world..simple.mal
 + *KamilaSzewczyk*: https://en.m.wikipedia.org/wiki/Malbolge#Example_programs
