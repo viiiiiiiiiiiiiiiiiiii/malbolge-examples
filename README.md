@@ -47,3 +47,6 @@ Crates.io: https://docs.rs/crate/malbolge/latest
 
 ##### Thank you for your help :).mal
 *Morpheu5*: https://stackoverflow.com/questions/37086519/how-do-i-recognise-a-string-as-malbolge-source-code
+
+##### Secret Word.mal
+*Secret Word*: https://www.tutorialspoint.com.cach3.com/programming_example/2aHU9e/secret-word.html
