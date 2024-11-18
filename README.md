@@ -21,3 +21,6 @@ Cooke, Andrew: http://acooke.org/malbolge.html
 
 ##### bottles-995.mal
 Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
+
+##### cat.mal
+<Unknown>: https://en.m.wikipedia.org/wiki/Malbolge#Example_programs
