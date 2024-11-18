@@ -9,7 +9,6 @@ If you are submitting a new Malbolge program, please ensure:
 
 + It runs properly in the original Malbolge C interpretter
 + You credit yourself (and a URL) appropriately by modifying this (README.md) file
-+ If your program runs in the original interpreter, but not the 'Lament-Configuration' interpreter ( https://github.com/nstarke/lament-configuration ), please note that fact in your pull request.
 
 ## Credits:
 
