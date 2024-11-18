@@ -16,7 +16,10 @@ If you are submitting a new Malbolge program, please ensure:
 Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
 
 ##### Hello World!.mal
-*UFHANO REHOBOTH TSHIVHIDZO*: https://www.sololearn.com/en/Discuss/950735/this-is-how-to-output-hello-world-in-malbolge
++ *UFHANO REHOBOTH TSHIVHIDZO*: https://www.sololearn.com/en/Discuss/950735/this-is-how-to-output-hello-world-in-malbolge
++ *xdbfnzsrfhf*: https://www.tutorialspoint.com.cach3.com/programming_example/CZYswf/xdbfnzsrfhf.html
++ *Janathan*: https://www.tutorialspoint.com.cach3.com/programming_example/bc2ras/jonathan.html
++ *hölle*: https://www.tutorialspoint.com.cach3.com/programming_example/dts61M/h-lle.html
 
 ##### Hello World!.simple.mal
 *Unknown*: https://code.fandom.com/wiki/Malbolge
@@ -37,6 +40,7 @@ Crates.io: https://docs.rs/crate/malbolge/latest
 + *Unknown*: https://esolangs.org/wiki/Malbolge
 + *Unknown*: https://code.fandom.com/wiki/Malbolge
 + *ais523*: https://stackoverflow.com/questions/37086519/how-do-i-recognise-a-string-as-malbolge-source-code
++ *(=BA#9"=<;:3y7x54-21q/p-,+*)"!h%B0/. ~P< <:(8& 66#"!~}|{zyxwvu gJ%*: https://www.tutorialspoint.com.cach3.com/programming_example/1f2GDY/bahash9-3y7x54-21q-p-plus-h-b0-p-8and-66hash-zyxwvu-gj.html
 
 ##### Thank you for your help :).mal
 *Morpheu5*: https://stackoverflow.com/questions/37086519/how-do-i-recognise-a-string-as-malbolge-source-code
