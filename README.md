@@ -25,7 +25,8 @@ Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
 Crates.io: https://docs.rs/crate/malbolge/latest
 
 ##### Hello, world..mal
-*KamilaSzewczyk*: https://en.m.wikipedia.org/wiki/Malbolge#Example_programs
++ *KamilaSzewczyk*: https://en.m.wikipedia.org/wiki/Malbolge#Example_programs
++ *kspalaiologos*: https://github.com/kspalaiologos/malbolge-lisp/blob/master/README.md
 
 ##### cat.mal
 + *Unknown*: https://en.m.wikipedia.org/wiki/Malbolge#Example_programs
