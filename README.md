@@ -15,9 +15,6 @@ If you are submitting a new Malbolge program, please ensure:
 ##### 99 bottles of beer.mal
 Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
 
-##### HEllO WORld.mal
-Cooke, Andrew: http://acooke.org/malbolge.html
-
 ##### Hello World!.mal
 *UFHANO REHOBOTH TSHIVHIDZO*: https://www.sololearn.com/en/Discuss/950735/this-is-how-to-output-hello-world-in-malbolge
 
