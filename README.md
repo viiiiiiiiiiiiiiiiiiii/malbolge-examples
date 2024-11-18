@@ -18,6 +18,9 @@ Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
 ##### Hello World!.mal
 *UFHANO REHOBOTH TSHIVHIDZO*: https://www.sololearn.com/en/Discuss/950735/this-is-how-to-output-hello-world-in-malbolge
 
+##### Hello World!.simple.mal
+*Unknown*: https://code.fandom.com/wiki/Malbolge
+
 ##### Hello!.mal
 Crates.io: https://docs.rs/crate/malbolge/latest
 
