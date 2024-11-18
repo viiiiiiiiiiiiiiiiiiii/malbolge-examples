@@ -36,6 +36,7 @@ Crates.io: https://docs.rs/crate/malbolge/latest
 + Crates.io: https://docs.rs/crate/malbolge/latest
 + *Unknown*: https://esolangs.org/wiki/Malbolge
 + *Unknown*: https://code.fandom.com/wiki/Malbolge
++ *ais523*: https://stackoverflow.com/questions/37086519/how-do-i-recognise-a-string-as-malbolge-source-code
 
 ##### Thank you for your help :).mal
 *Morpheu5*: https://stackoverflow.com/questions/37086519/how-do-i-recognise-a-string-as-malbolge-source-code
