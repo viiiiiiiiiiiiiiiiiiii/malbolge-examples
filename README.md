@@ -13,11 +13,11 @@ If you are submitting a new Malbolge program, please ensure:
 
 ## Credits:
 
-### HEllO WORld.mal
+##### HEllO WORld.mal
 Cooke, Andrew: http://acooke.org/malbolge.html
 
-### bottles-995.mal
-Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
-
-### Hello World!.mal
+##### Hello World!.mal
 <Unknown> http://en.wikipedia.org/wiki/Malbolge
+
+##### bottles-995.mal
+Iizawa, Hisashi: http://www.99-bottles-of-beer.net/language-malbolge-995.html
