@@ -27,3 +27,4 @@ Crates.io: https://docs.rs/crate/malbolge/latest
 ##### cat.mal
 + *Unknown*: https://en.m.wikipedia.org/wiki/Malbolge#Example_programs
 + Crates.io: https://docs.rs/crate/malbolge/latest
++ *Unknown*: https://esolangs.org/wiki/Malbolge
